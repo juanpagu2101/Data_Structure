@@ -1,0 +1,36 @@
+carga_divipola DIVIPOLA_CentrosPoblados.csv
+listar_departamentos
+listar_municipios 99
+listar_poblaciones 68081
+info_sumaria 68
+info_sumaria 5
+carga_SC Datos-ICM-2019.csv
+esta_en_sistema 05001
+aglomeracion
+uninodal
+capital_menor
+
+entrega 2
+carga_divipola DIVIPOLA_CentrosPoblados.csv
+carga_SC Datos-ICM-2019.csv
+aglomeracion
+uninodal
+capital_menor
+reporte
+codificar_archivoicm.bin
+decodificar_archivoicm.bin
+
+entrega 3
+carga_divipola DIVIPOLA_CentrosPoblados.csv
+carga_SC Datos-ICM-2019.csv
+distancia A-Medellin
+distancia A-Bogota
+distancia A-Bucaramanga
+
+
+
+distancia 5088
+
+
+
+
